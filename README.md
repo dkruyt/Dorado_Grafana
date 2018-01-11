@@ -19,4 +19,4 @@ For all latest files, see [My GitHub page](https://github.com/dkruyt/OceanStor_G
 
 After you setup all, you should have some dashboard like this
 
-![Grafana screenshot Dorado](https://github.com/dkruyt/OceanStor_Grafana/blob/master/Grafana___Huawei_Storage_edit.jpg?raw=true)
+![Grafana screenshot Dorado](https://github.com/dkruyt/Dorado_Grafana/blob/master/Huawei_Dorado_Storage.jpg?raw=true)
