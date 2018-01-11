@@ -8,7 +8,7 @@ For all latest files, see [My GitHub page](https://github.com/dkruyt/OceanStor_G
 ### Quick Start
 
 * Enable SNMP on your Huawei Dorado storage
-* Put hw_stor.conf in your `/etc/telegraf/telegraf.d` directory
+* Put dorado.conf in your `/etc/telegraf/telegraf.d` directory
 * Edit the community string as appropriate
 * Edit the SNMP verion as appropriate, please note that verion 2 is disabled by default on the Huawei OceanStor, check with `show snmp version` on the Storage
 * Edit the 'agents' list to include all of your monitored Dorado storages
